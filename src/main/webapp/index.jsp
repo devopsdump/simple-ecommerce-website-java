@@ -122,7 +122,7 @@ a {
 			<input class="un" type="text" align="center" placeholder="Username" name="username">
 			<input class="pass" type="password" align="center" placeholder="Password" name="Password">
 			<input type="submit" class="submit" align="center" value="Sign in">
-			<p class="forgot" align="center"> <a href="#">Forgot Password?</a></p>
+			<p class="forgot" align="center"> <a href="#">Forgot Password,click here?</a></p>
 		</form>
 	</div>
 </body>
